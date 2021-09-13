@@ -1,6 +1,10 @@
 # darknet_miniproj
 Darknet을 이용한 객체 인식 딥러닝 프로젝트
 
+--
+PPT 자료 이미지 첨부
+--
+
 ![슬라이드1](https://user-images.githubusercontent.com/86704927/133051398-57ac96ce-4c94-4076-87fc-d940f2c18282.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/86704927/133051400-9cd34b5f-4ada-412a-8a40-ac0e0f8452d4.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/86704927/133051402-a0526488-2d0e-4b11-b39a-0fa038fa21fb.JPG)
